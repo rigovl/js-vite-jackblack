@@ -5,4 +5,4 @@ export default defineConfig({
     base: '/js-vite-jackblack/'
 })
 
-//Hola rigo 2
+//Hola rigo 22
